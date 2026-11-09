@@ -1,0 +1,19 @@
+{
+  "name": "carbone",
+  "owner": {
+    "name": "Carbone",
+    "email": "support@carbone.io"
+  },
+  "metadata": {
+    "description": "The Carbone skill and MCP server for Claude."
+  },
+  "plugins": [
+    {
+      "name": "carbone",
+      "source": "./",
+      "description": "Generate PDF and Office documents from Word, Excel, PowerPoint, HTML or Markdown templates, from one file to large batches, and design templates with the Carbone skill.",
+      "category": "productivity",
+      "homepage": "https://carbone.io/documentation/developer/ai/mcp.html"
+    }
+  ]
+}
